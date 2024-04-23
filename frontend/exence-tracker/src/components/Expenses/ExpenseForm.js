@@ -44,7 +44,7 @@ function ExpenseForm() {
                     type="text" 
                     value={title}
                     name={'title'} 
-                    placeholder="Заглави на разход"
+                    placeholder="Заглавие на разход"
                     onChange={handleInput('title')}
                 />
             </div>

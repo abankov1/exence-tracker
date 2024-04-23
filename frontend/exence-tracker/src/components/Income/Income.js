@@ -15,7 +15,7 @@ useEffect(() => {
     return (
         <IncomeStyled>
             <InnerLayout>
-                <h1>Доходи</h1>
+                <h1>Приходи</h1>
                 <h2 className="total-income">Общо: <span>{totalIncome()}лв</span></h2>
                 <div className="income-content">
                     <div className="form-container">
